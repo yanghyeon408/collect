@@ -478,7 +478,7 @@ support가 높은 영역 vs 낮은 영역에서 성능 비교
 
 - 원문: [The Missing Layer of AGI: From Pattern Alchemy to Coordination Physics](https://arxiv.org/abs/2512.05765)
 - 저자: Edward Y. Chang (Stanford University)
-- 발표: 2024년 12월
+- 발표: 2025년 12월
 
 ---
 
